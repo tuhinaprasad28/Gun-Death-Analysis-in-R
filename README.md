@@ -17,8 +17,7 @@ frame as a formatted kable() table.
 cause of death. The bars should be sorted from highest to lowest values.
 
 (d) Generate a boxplot visualizing the age of gun death victims, by sex. Print the average age of
-female gun death victims.
-Answer the following questions. Generate appropriate figures/tables to support your conclusions.
+female gun death victims.Answer the following questions. Generate appropriate figures/tables to support your conclusions.
 
 (e) How many white males with at least a high school education were killed by guns in 2012?
 
@@ -32,4 +31,4 @@ Answer the following questions. Generate appropriate figures/tables to support y
 (g) Are whites who are killed by guns more likely to die because of suicide or homicide? How does
 this compare to blacks and Hispanics?
 
-(h) Are police-involved gun deaths significantly different from other gun deaths? Assess the relationship between police involvement and other variables.
+(h) Are police-involved gun deaths significantly different from other gun deaths? Assess the relationship between police involvement and other variables.
