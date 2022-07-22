@@ -4,8 +4,7 @@ and culture, recently published a series of articles on gun deaths in America. G
 United States is a significant political issue, and while reducing gun deaths is a noble goal, we must first
 understand the causes and patterns in gun violence in order to craft appropriate policies. As part of the
 project, FiveThirtyEight collected data from the Centers for Disease Control and Prevention, as well as
-other governmental agencies and non-profits, on all gun deaths in the United States from 2012-2014.You
-can find this dataset, called ”gun deaths.csv”, on blackboard.
+other governmental agencies and non-profits, on all gun deaths in the United States from 2012-2014.
 
 (a) Generate a data frame that summarizes the number of gun deaths per month. Print the data
 frame as a formatted kable() table.
